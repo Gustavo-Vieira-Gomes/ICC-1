@@ -72,7 +72,7 @@ int main()
     int service, periodTime, age;
     float tarifa;
 
-    print("Insira o código do serviço: ");
+    printf("Insira o código do serviço: ");
     scanf("%d", &service);
 
     if (service < 1 || service > 4)

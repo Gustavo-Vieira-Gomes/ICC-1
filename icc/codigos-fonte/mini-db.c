@@ -132,7 +132,7 @@ void find_registry(Registry *registries, int registries_count, char *line)
     char search_field[11], search_value[31];
     int found = 0, operation;
 
-    sscanf(line, "%d \"%10[^\"] %30s", &operation, search_field, search_value);
+    sscanf(line, "%d \"%10[^\"]\" %30s", &operation, search_field, search_value);
 
     if (strcmp(search_field, "id") == 0)
     {
@@ -229,7 +229,7 @@ void delete_registry(Registry *registries, int *registries_count_pointer, char *
     char search_field[11], search_value[31];
     int found = 0, write_index = 0, deleted_count = 0, operation;
 
-    sscanf(line, "%d \"%10[^\"] %30s", &operation, search_field, search_value);
+    sscanf(line, "%d \"%10[^\"]\" %30s", &operation, search_field, search_value);
 
     if (strcmp(search_field, "id") == 0)
     {

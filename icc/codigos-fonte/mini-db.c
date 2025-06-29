@@ -108,11 +108,11 @@ void print_registry(Registry registry)
 // recebe um registro e printa o mesmo no terminal com a formatacão correta
 {
     printf("{\n");
-    printf("  \"id\": %d,\n", registry.id);
-    printf("  \"login\": \"%s\",\n", registry.login);
-    printf("  \"password\": \"%s\",\n", registry.password);
-    printf("  \"gender\": \"%c\",\n", registry.gender);
-    printf("  \"salary\": %.2f\n", registry.salary);
+    printf("    \"id\": %d,\n", registry.id);
+    printf("    \"login\": \"%s\",\n", registry.login);
+    printf("    \"password\": \"%s\",\n", registry.password);
+    printf("    \"gender\": \"%c\",\n", registry.gender);
+    printf("    \"salary\": %.2f\n", registry.salary);
     printf("}\n");
 }
 

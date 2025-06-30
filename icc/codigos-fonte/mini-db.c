@@ -205,7 +205,7 @@ void find_registry(Registry **registries, int registries_count, char *line)
     else if (strcmp(search_field, "login") == 0)
     {
         char login[16];
-        sscanf(search_value, "\"%15[^\"]", login);
+        sscanf(search_value, "\"%15[^\"]\"", login);
         for (int i = 0; i < registries_count; i++)
         {
             if (registries[i] != NULL)
@@ -225,7 +225,7 @@ void find_registry(Registry **registries, int registries_count, char *line)
     else if (strcmp(search_field, "password") == 0)
     {
         char password[31];
-        sscanf(search_value, "\"%30[^\"]", password);
+        sscanf(search_value, "\"%30[^\"]\"", password);
         for (int i = 0; i < registries_count; i++)
         {
             if (registries[i] != NULL)
@@ -320,7 +320,7 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
     else if (strcmp(search_field, "login") == 0)
     {
         char login[16];
-        sscanf(search_value, "\"%15[^\"]", login);
+        sscanf(search_value, "\"%15[^\"]\"", login);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
             if ((*registries)[read_index] != NULL)
@@ -342,7 +342,7 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
     else if (strcmp(search_field, "password") == 0)
     {
         char password[31];
-        sscanf(search_value, "\"%30[^\"]", password);
+        sscanf(search_value, "\"%30[^\"]\"", password);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
             if ((*registries)[read_index] != NULL)

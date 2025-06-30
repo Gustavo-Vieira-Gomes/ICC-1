@@ -1,0 +1,67 @@
+10 registro(s) lido(s).
+{
+    "id": 2,
+    "login": "mariarodr",
+    "password": "segura12345678",
+    "gender": "F",
+    "salary": 4200.00
+}
+{
+    "id": 4,
+    "login": "ana_paula",
+    "password": "anap12345678",
+    "gender": "F",
+    "salary": 3900.50
+}
+{
+    "id": 6,
+    "login": "beatriz.m",
+    "password": "beasenha99",
+    "gender": "F",
+    "salary": 4800.20
+}
+{
+    "id": 8,
+    "login": "juliana.k",
+    "password": "juli2024senha",
+    "gender": "F",
+    "salary": 4550.75
+}
+{
+    "id": 10,
+    "login": "larissa.l",
+    "password": "larissenha88",
+    "gender": "F",
+    "salary": 4700.10
+}
+5 registro(s) removido(s).
+Nada encontrado.
+Registro inserido.
+{
+    "id": 13412,
+    "login": "maria",
+    "password": "seg8#sadf2v",
+    "gender": "F",
+    "salary": 1487.15
+}
+{
+    "id": 13412,
+    "login": "maria",
+    "password": "seg8#sadf2v",
+    "gender": "F",
+    "salary": 1487.15
+}
+{
+    "id": 13412,
+    "login": "maria",
+    "password": "seg8#sadf2v",
+    "gender": "F",
+    "salary": 1487.15
+}
+{
+    "id": 13412,
+    "login": "maria",
+    "password": "seg8#sadf2v",
+    "gender": "F",
+    "salary": 1487.15
+}

@@ -1,0 +1,93 @@
+data_8.json
+3 "id" 38677
+2 "login" "megan.lester"
+2 "salary" 9987.89
+1 99901 "alice.green" "pass12345" "F" 5000.00
+3 "login" "katherine.moor"
+2 "gender" "M"
+3 "login" "not.exist"
+2 "abc" 10000
+1 99902 "john.doe" "doeSecure99" "M" 6200.20
+2 "login" "john.doe"
+3 "id" 50872
+1 99903 "lucy.hart" "lucyPass!" "F" 4800.75
+2 "salary" 4800.75
+2 "gender" "U"
+3 "id" 111111
+1 99904 "brian.lee" "secure$lee" "M" 5300.33
+3 "login" "lucy.hart"
+2 "id" 92185
+1 99905 "emily.brown" "brownieP@ss" "F" 7100.10
+3 "gender" "X"
+2 "login" "brenda.gray"
+1 99906 "will.thomas" "will@2023" "M" 5900.90
+2 "login" "ashley.long"
+2 "password" "pass 321"
+2 "gender" "F"
+1 99907 "david.kim" "D@v1dK" "M" 6100.00
+3 "login" "alexa.flores"
+2 "salary" 8061.93
+1 99908 "susan.white" "SWhite!88" "F" 6750.00
+2 "login" "david.kim"
+3 "id" 3846
+2 "login" "ghost.user"
+1 99909 "carol.turner" "turn!tUp99" "F" 4988.88
+3 "salary" 8061.93
+2 "gender" "Z"
+3 "abc" 99999
+1 99910 "tom.clark" "clark&co123" "M" 7200.20
+3 "login" "will.thomas"
+2 "id" 97457
+1 99911 "nancy.bishop" "N@ncy2025" "F" 6999.00
+2 "id" 100000
+3 "id" 172839
+3 "id" 24195
+2 "login" "nancy.bishop"
+1 99912 "peter.james" "pjSecure777" "M" 5000.00
+2 "salary" 5000.00
+3 "login" "brenda.gray"
+2 "id" 38677
+1 99913 "julia.martin" "julieMart!1" "F" 6200.00
+2 "login" "lucy.hart"
+3 "id" 8739
+2 "login" "peter.james"
+1 99914 "henry.scott" "Henry$co99" "M" 4700.00
+2 "login" "meghan.todd"
+3 "login" "ashley.rodrigu"
+2 "salary" 4737.12
+1 99915 "paula.dixon" "pdixPass#1" "F" 5400.00
+3 "login" "megan.lester"
+2 "id" 9280
+3 "id" 16902
+1 99916 "aaron.wells" "aaron@pass" "M" 3999.99
+2 "login" "aaron.wells"
+2 "gender" ""
+1 99917 "elaine.young" "ElaineY123!" "F" 5888.88
+2 "id" 24195
+3 "id" 66373
+3 "id" 99916
+2 "login" "elaine.young"
+1 99918 "leo.carter" "leoPW@1" "M" 3777.77
+3 "login" "donald.delacru"
+2 "salary" 3777.77
+2 "login" "leo.carter"
+1 99919 "amy.nelson" "amySafePass" "F" 6123.00
+2 "id" 24861
+3 "id" 9865
+2 "gender" "F"
+1 99920 "jackson.white" "jackW123!" "M" 7100.50
+2 "login" "amy.nelson"
+3 "login" "nancy.bishop"
+2 "id" 99920
+2 "gender" "U"
+3 "login" "leo.carter"
+2 "login" "amy.nelson"
+3 "id" 30669
+1 99921 "steve.adams" "stev3@A" "M" 5555.55
+3 "login" "jackson.white"
+2 "salary" 5555.55
+2 "gender" ""
+3 "login" "ghost"
+2 "login" "steve.adams"
+3 "id" 10470
+2 "login" "brent.simmons"

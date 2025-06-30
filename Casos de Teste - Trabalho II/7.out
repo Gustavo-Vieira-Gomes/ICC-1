@@ -1,0 +1,223 @@
+0 registro(s) lido(s).
+Nada encontrado.
+Nada encontrado.
+Nada encontrado.
+Remoção inválida.
+Remoção inválida.
+Remoção inválida.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+{
+    "id": 101,
+    "login": "jdoe",
+    "password": "password123",
+    "gender": "M",
+    "salary": 3200.50
+}
+{
+    "id": 103,
+    "login": "bjones",
+    "password": "letmein789",
+    "gender": "M",
+    "salary": 2900.00
+}
+{
+    "id": 105,
+    "login": "dwilson",
+    "password": "pass 321",
+    "gender": "M",
+    "salary": 5000.00
+}
+{
+    "id": 107,
+    "login": "fwhite",
+    "password": "whitepass",
+    "gender": "M",
+    "salary": 3300.25
+}
+{
+    "id": 109,
+    "login": "hhall",
+    "password": "hall!secure",
+    "gender": "M",
+    "salary": 5200.10
+}
+{
+    "id": 102,
+    "login": "asmith",
+    "password": "qwerty456",
+    "gender": "F",
+    "salary": 4100.00
+}
+{
+    "id": 104,
+    "login": "clark",
+    "password": "secure1234",
+    "gender": "F",
+    "salary": 3800.75
+}
+{
+    "id": 106,
+    "login": "emartin",
+    "password": "myp@ssword",
+    "gender": "F",
+    "salary": 4700.00
+}
+{
+    "id": 108,
+    "login": "ggreen",
+    "password": "greenleaf",
+    "gender": "F",
+    "salary": 3900.90
+}
+{
+    "id": 110,
+    "login": "iknight",
+    "password": "kn1ght!",
+    "gender": "F",
+    "salary": 4400.00
+}
+{
+    "id": 107,
+    "login": "fwhite",
+    "password": "whitepass",
+    "gender": "M",
+    "salary": 3300.25
+}
+{
+    "id": 106,
+    "login": "emartin",
+    "password": "myp@ssword",
+    "gender": "F",
+    "salary": 4700.00
+}
+{
+    "id": 105,
+    "login": "dwilson",
+    "password": "pass 321",
+    "gender": "M",
+    "salary": 5000.00
+}
+Nada encontrado.
+Nada encontrado.
+Nada encontrado.
+Nada encontrado.
+Nada encontrado.
+1 registro(s) removido(s).
+1 registro(s) removido(s).
+1 registro(s) removido(s).
+Remoção inválida.
+Remoção inválida.
+Remoção inválida.
+Remoção inválida.
+Remoção inválida.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+Registro inserido.
+{
+    "id": 111,
+    "login": "jjames",
+    "password": "jamie123",
+    "gender": "M",
+    "salary": 3450.75
+}
+{
+    "id": 117,
+    "login": "qyoung",
+    "password": "young1",
+    "gender": "M",
+    "salary": 3000.00
+}
+{
+    "id": 102,
+    "login": "asmith",
+    "password": "qwerty456",
+    "gender": "F",
+    "salary": 4100.00
+}
+{
+    "id": 112,
+    "login": "kroberts",
+    "password": "robpass!",
+    "gender": "F",
+    "salary": 4620.30
+}
+{
+    "id": 108,
+    "login": "ggreen",
+    "password": "greenleaf",
+    "gender": "F",
+    "salary": 3900.90
+}
+{
+    "id": 110,
+    "login": "iknight",
+    "password": "kn1ght!",
+    "gender": "F",
+    "salary": 4400.00
+}
+{
+    "id": 114,
+    "login": "mscott",
+    "password": "scottfree",
+    "gender": "F",
+    "salary": 4999.99
+}
+{
+    "id": 116,
+    "login": "oparker",
+    "password": "parkerpass",
+    "gender": "F",
+    "salary": 4700.00
+}
+{
+    "id": 118,
+    "login": "rhill",
+    "password": "hilltop",
+    "gender": "F",
+    "salary": 4100.00
+}
+{
+    "id": 120,
+    "login": "ttorres",
+    "password": "torres@21",
+    "gender": "F",
+    "salary": 3555.55
+}
+{
+    "id": 120,
+    "login": "ttorres",
+    "password": "torres@21",
+    "gender": "F",
+    "salary": 3555.55
+}
+Nada encontrado.
+{
+    "id": 105,
+    "login": "dwilson",
+    "password": "pass 321",
+    "gender": "M",
+    "salary": 5000.00
+}
+Nada encontrado.
+1 registro(s) removido(s).
+1 registro(s) removido(s).
+8 registro(s) removido(s).
+Remoção inválida.
+Remoção inválida.
+Remoção inválida.

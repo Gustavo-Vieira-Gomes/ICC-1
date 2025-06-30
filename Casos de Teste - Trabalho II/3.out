@@ -1,0 +1,1682 @@
+1000 registro(s) lido(s).
+Sem espaço para inserção.
+Sem espaço para inserção.
+1 registro(s) removido(s).
+1 registro(s) removido(s).
+Registro inserido.
+Registro inserido.
+{
+    "id": 100901,
+    "login": "lucas_fern",
+    "password": "lucaspass123456",
+    "gender": "M",
+    "salary": 5100.25
+}
+{
+    "id": 322236,
+    "login": "larissa.l",
+    "password": "larissenha88",
+    "gender": "F",
+    "salary": 4700.10
+}
+{
+    "id": 100901,
+    "login": "lucas_fern",
+    "password": "lucaspass123456",
+    "gender": "M",
+    "salary": 5100.25
+}
+{
+    "id": 66215,
+    "login": "antonio.vang",
+    "password": "jYt6bMYVAKZX(fMJdYdZZAaa&)!85",
+    "gender": "M",
+    "salary": 3156.72
+}
+{
+    "id": 90315,
+    "login": "sergio.henders",
+    "password": "R1dnr^_Qd6RX&hU$$eZN@eAK$lY!&",
+    "gender": "M",
+    "salary": 4890.60
+}
+{
+    "id": 59913,
+    "login": "noah.smith",
+    "password": "Isj0CaQ#a!AGk0i4B+1y8hqEB%syz",
+    "gender": "M",
+    "salary": 5399.07
+}
+{
+    "id": 71619,
+    "login": "raymond.jenkin",
+    "password": "&a!QzGaGUZVIGEDGCE#3M3vdLOsYJ",
+    "gender": "M",
+    "salary": 4462.26
+}
+{
+    "id": 28199,
+    "login": "michael.sosa",
+    "password": "qfXwneQM_vz!5a3tXfoo+jGsu8ESB",
+    "gender": "M",
+    "salary": 9843.53
+}
+{
+    "id": 14640,
+    "login": "taylor.allen",
+    "password": "&Wnt#@guMX7s11*C&7N9P99B1aX%U",
+    "gender": "M",
+    "salary": 4111.81
+}
+{
+    "id": 66349,
+    "login": "william.cannon",
+    "password": "AHHWN6$FQS_jrlvA$Q)ys9^!s(5Xw",
+    "gender": "M",
+    "salary": 9327.85
+}
+{
+    "id": 10587,
+    "login": "shawn.cordova",
+    "password": "G#%nw!@7)BqHdUevj_oKJ2Sl@Y!5P",
+    "gender": "M",
+    "salary": 9506.81
+}
+{
+    "id": 82594,
+    "login": "ronald.collins",
+    "password": "pioiuiq%!SBg@_e5ZsUohFih#WNI6",
+    "gender": "M",
+    "salary": 9599.43
+}
+{
+    "id": 17755,
+    "login": "curtis.hampton",
+    "password": "c(0ajQf2@I(eXqwn4muW^V7y63DJS",
+    "gender": "M",
+    "salary": 8085.46
+}
+{
+    "id": 88243,
+    "login": "christopher.sl",
+    "password": "Qf6RR(bLSM*ZDV07T(U(lanE%Ec6V",
+    "gender": "M",
+    "salary": 7418.08
+}
+{
+    "id": 25050,
+    "login": "joseph.hansen",
+    "password": "6$4FXu4o_8tbzfnd$t@P0Jy&MGsIl",
+    "gender": "M",
+    "salary": 7382.37
+}
+{
+    "id": 2843,
+    "login": "matthew.garza",
+    "password": "RBeDFC9k9@0(s1mos*mTl3_ErD_c6",
+    "gender": "M",
+    "salary": 8328.51
+}
+{
+    "id": 8661,
+    "login": "william.simmon",
+    "password": "^va99*PilJHPkIzVdDcANxJd(7aMh",
+    "gender": "M",
+    "salary": 5355.40
+}
+{
+    "id": 96032,
+    "login": "michael.garcia",
+    "password": "DTnYHzX2nhA%tY^YXiU5cXrYe!9dY",
+    "gender": "M",
+    "salary": 7529.48
+}
+{
+    "id": 21453,
+    "login": "nathan.miller",
+    "password": "k*@uAu)FgDRz*klhJ0k*m8RlK)ERF",
+    "gender": "M",
+    "salary": 3609.83
+}
+{
+    "id": 67683,
+    "login": "justin.scott",
+    "password": "dyyZVLMF@JJjxxpxO^@NvC)U0v7NC",
+    "gender": "M",
+    "salary": 7940.11
+}
+{
+    "id": 67651,
+    "login": "daniel.martine",
+    "password": "9*nqP_7XnK!L#B5PoFafLlfD)bbRz",
+    "gender": "M",
+    "salary": 4555.71
+}
+{
+    "id": 88331,
+    "login": "jordan.mendoza",
+    "password": "&otHi_Y##L_ae8jTM)k3BY0H3x)II",
+    "gender": "M",
+    "salary": 8446.47
+}
+{
+    "id": 21707,
+    "login": "nathan.small",
+    "password": ")O3YUalzkIYJS!#o4(I9OGa9+(PDG",
+    "gender": "M",
+    "salary": 8528.52
+}
+{
+    "id": 95028,
+    "login": "michael.montoy",
+    "password": "wV!jzAO5YQxGY3fnMV&5lqSfiq!FU",
+    "gender": "M",
+    "salary": 5178.43
+}
+{
+    "id": 63799,
+    "login": "richard.brock",
+    "password": "KB&543^++7pp8gBa%lhKJQegzLY2S",
+    "gender": "M",
+    "salary": 3388.20
+}
+{
+    "id": 74743,
+    "login": "steven.jones",
+    "password": "l54&ndIfL*ikMQGrarZ@ul17pRf3U",
+    "gender": "M",
+    "salary": 9790.24
+}
+{
+    "id": 82320,
+    "login": "kevin.phillips",
+    "password": ")iS!9aznR$Vm&CnFfeQ$Ztl&*3Dgo",
+    "gender": "M",
+    "salary": 2588.05
+}
+{
+    "id": 34491,
+    "login": "william.brown",
+    "password": "wm38ZBRtRz3cI&Tr^qgiDgmM1Lu6k",
+    "gender": "M",
+    "salary": 8751.58
+}
+{
+    "id": 8902,
+    "login": "jason.ayala",
+    "password": "vI)8d5JTkrM$8)AtM3wOfWjut^pJv",
+    "gender": "M",
+    "salary": 8253.28
+}
+{
+    "id": 60947,
+    "login": "david.powell",
+    "password": "En#b^^!&&Zs()Cxl!U3QB0*%I*z@B",
+    "gender": "M",
+    "salary": 7395.17
+}
+{
+    "id": 41123,
+    "login": "zachary.harris",
+    "password": "l(wy8$bdRuge)D7dR+Q6fnUOm_BVU",
+    "gender": "M",
+    "salary": 4956.62
+}
+{
+    "id": 73233,
+    "login": "michael.murphy",
+    "password": "p3oNgQ%7@DNX)VIX)yIYm7QY^WIhw",
+    "gender": "M",
+    "salary": 6261.83
+}
+{
+    "id": 99191,
+    "login": "frank.jennings",
+    "password": "TF08gql226ZY#KP9X%6^BqsrS!r0Z",
+    "gender": "M",
+    "salary": 7221.15
+}
+{
+    "id": 66164,
+    "login": "jerome.castill",
+    "password": "_K4(!+&JL0BpAcaBz^e3I+rP8YN2P",
+    "gender": "M",
+    "salary": 5380.89
+}
+{
+    "id": 50398,
+    "login": "charles.robins",
+    "password": "I5qa)Bge)tw1y@)!(AKZWXEupjTtH",
+    "gender": "M",
+    "salary": 4861.13
+}
+{
+    "id": 11648,
+    "login": "joseph.wilson",
+    "password": "$aC4mzu_VOuHfGa5)nLuYGDpay5OM",
+    "gender": "M",
+    "salary": 4959.50
+}
+{
+    "id": 74075,
+    "login": "adam.jones",
+    "password": "Sz1AElu@%%h^KNU4zh+3sJ*qa!sJ5",
+    "gender": "M",
+    "salary": 7318.46
+}
+{
+    "id": 28922,
+    "login": "christopher.fl",
+    "password": "kYMWfK6VhtV!h4y@&UMW)n(x(6k1z",
+    "gender": "M",
+    "salary": 6765.32
+}
+{
+    "id": 20329,
+    "login": "victor.hinton",
+    "password": "maHCwj$g5W#Iy*Cs4+M66ZN$wA2G^",
+    "gender": "M",
+    "salary": 6783.05
+}
+{
+    "id": 99934,
+    "login": "steven.hernand",
+    "password": "h83bn)V%GHO8fer)Mz&(BEJn3ksP@",
+    "gender": "M",
+    "salary": 7190.73
+}
+{
+    "id": 15730,
+    "login": "douglas.procto",
+    "password": "XxUQv6IX6d7Q^lX)fXF6M+qo7xjmY",
+    "gender": "M",
+    "salary": 8406.84
+}
+{
+    "id": 15667,
+    "login": "robert.clarke",
+    "password": "iGsp9Vb)ENYVue4YhATXk@E*hn)j&",
+    "gender": "M",
+    "salary": 2363.44
+}
+{
+    "id": 65327,
+    "login": "steven.wells",
+    "password": "RG3w*8b56V90kttn#j%L)_!QLjFgD",
+    "gender": "M",
+    "salary": 3438.38
+}
+{
+    "id": 73769,
+    "login": "matthew.lucas",
+    "password": ")BefGZY&UjsWf%uloV94VUO6Y^2DN",
+    "gender": "M",
+    "salary": 8905.62
+}
+{
+    "id": 98419,
+    "login": "chad.coffey",
+    "password": "ZiP7dJ&@gBPDCGw3jx&4Qr+w9fCED",
+    "gender": "M",
+    "salary": 7995.38
+}
+{
+    "id": 13934,
+    "login": "austin.horton",
+    "password": "2lJ5oJy$^Z3D5Njuj4kAUZ&Yg^qvD",
+    "gender": "M",
+    "salary": 6994.45
+}
+{
+    "id": 61673,
+    "login": "dennis.goodwin",
+    "password": "8ApFuUashj_aL+Zx)A4DHFWR7bXSb",
+    "gender": "M",
+    "salary": 9508.48
+}
+{
+    "id": 4415,
+    "login": "brent.cortez",
+    "password": "s%oYY++OpP#1nltSslPANbhv3Mvst",
+    "gender": "M",
+    "salary": 4268.53
+}
+{
+    "id": 56285,
+    "login": "antonio.philli",
+    "password": "B)kr6OLiUvfjS(T!jTk^RP9Qmmp43",
+    "gender": "M",
+    "salary": 3147.52
+}
+{
+    "id": 78831,
+    "login": "andrew.cole",
+    "password": "Iw%5*g8JVfb1PHy8dDUT8riF@^5P*",
+    "gender": "M",
+    "salary": 9916.53
+}
+{
+    "id": 16578,
+    "login": "stephen.andrew",
+    "password": "l5rPoCMb$C0O63Hm#L1g21@UzFGBy",
+    "gender": "M",
+    "salary": 8437.38
+}
+{
+    "id": 36975,
+    "login": "timothy.martin",
+    "password": "bBK0$zxs5qQbM^a8&9T+SSbZtlpN)",
+    "gender": "M",
+    "salary": 7038.87
+}
+{
+    "id": 1937,
+    "login": "jordan.diaz",
+    "password": "(sxu8W$h7+G1@vAmI+89!4$yKckOT",
+    "gender": "M",
+    "salary": 8295.26
+}
+{
+    "id": 77981,
+    "login": "david.leon",
+    "password": "&o@ehla)Hlcd1HXZsp!8SxeN(PX1G",
+    "gender": "M",
+    "salary": 8103.94
+}
+{
+    "id": 50749,
+    "login": "timothy.schnei",
+    "password": "JLR%pVavW*3UCOthv7Ww6C2(Xxa8k",
+    "gender": "M",
+    "salary": 7157.02
+}
+{
+    "id": 69557,
+    "login": "bryan.ortiz",
+    "password": "ft9Dxky%qW2^XKtTDU2am36P)pS*Z",
+    "gender": "M",
+    "salary": 4017.56
+}
+{
+    "id": 25060,
+    "login": "tyler.pacheco",
+    "password": "2z&pdKpq20OU@uJq)zgML4$&@%qU2",
+    "gender": "M",
+    "salary": 5512.84
+}
+{
+    "id": 2073,
+    "login": "michael.alexan",
+    "password": "#X71q**1I&Fh!nLvab09wUKp1KHOA",
+    "gender": "M",
+    "salary": 4673.24
+}
+{
+    "id": 64243,
+    "login": "michael.jones",
+    "password": "%xtyCm8@L!NaNMrVK%l5fW*Acly$8",
+    "gender": "M",
+    "salary": 7517.13
+}
+{
+    "id": 60087,
+    "login": "michael.morris",
+    "password": "T@T5ILSY+@#9!(tPeLb!EqbDmoD9A",
+    "gender": "M",
+    "salary": 2794.63
+}
+{
+    "id": 82361,
+    "login": "jeremy.johnson",
+    "password": "1cA_sYbDWJ_OG5VmZ%76WKewv#)q2",
+    "gender": "M",
+    "salary": 5785.27
+}
+{
+    "id": 64311,
+    "login": "travis.hudson",
+    "password": "33F@UX_)#dm@yfIkJ)Kt+ylWx9+4!",
+    "gender": "M",
+    "salary": 9567.82
+}
+{
+    "id": 64901,
+    "login": "hunter.wilson",
+    "password": "WSV!FIwdH&9vHUHCDjQ$%T6r!(f)8",
+    "gender": "M",
+    "salary": 7150.83
+}
+{
+    "id": 58665,
+    "login": "william.abbott",
+    "password": "s&9dT3vtYYN5_MRk%S%suHkGv8UIZ",
+    "gender": "M",
+    "salary": 8182.00
+}
+{
+    "id": 39714,
+    "login": "jeffery.gonzal",
+    "password": ")S_f7KAG8XMM)dKHCJIW#Yxgcfvsb",
+    "gender": "M",
+    "salary": 2931.52
+}
+{
+    "id": 79665,
+    "login": "michael.christ",
+    "password": "B)1Ugq!1*nTs%cdf#f0PUHK0D&XMq",
+    "gender": "M",
+    "salary": 9419.22
+}
+{
+    "id": 50446,
+    "login": "maxwell.rivera",
+    "password": "*UOvD&%F@9v1VmaZ9Hfo94KKtPdMQ",
+    "gender": "M",
+    "salary": 2096.73
+}
+{
+    "id": 13798,
+    "login": "ronald.kim",
+    "password": "y2@ezU*P*NEm0ub2MpQ1TMwV@*P5B",
+    "gender": "M",
+    "salary": 9860.24
+}
+{
+    "id": 63436,
+    "login": "troy.morse",
+    "password": "*4AXHq2MXGnV0+x72O)%yrf6OZVr&",
+    "gender": "M",
+    "salary": 9847.41
+}
+{
+    "id": 80764,
+    "login": "james.west",
+    "password": "l*n4_OK5jn2gN$$%)u9YF5uqogfSo",
+    "gender": "M",
+    "salary": 2503.87
+}
+{
+    "id": 14637,
+    "login": "william.sweene",
+    "password": "e#QHbhk#q6jcAC_MDV4tK)%f$d%r)",
+    "gender": "M",
+    "salary": 2447.27
+}
+{
+    "id": 76047,
+    "login": "richard.smith",
+    "password": "GL8Rx1&w9+KG7NBC%a(TFYuXOOsRq",
+    "gender": "M",
+    "salary": 9490.54
+}
+{
+    "id": 93927,
+    "login": "james.sparks",
+    "password": "@9oKT^qrn1WSDxoyT*)Dvs!UPfCHD",
+    "gender": "M",
+    "salary": 9034.15
+}
+{
+    "id": 79196,
+    "login": "travis.soto",
+    "password": "I@zA*uPlPi7SmiSHR(9g+QRzz$4$_",
+    "gender": "M",
+    "salary": 3542.27
+}
+{
+    "id": 15150,
+    "login": "jonathan.davis",
+    "password": "6lWN2KUOJs3duEsH^Oj(BBCgmd4Jb",
+    "gender": "M",
+    "salary": 7016.54
+}
+{
+    "id": 76883,
+    "login": "michael.gordon",
+    "password": "X9zE$8uVB6*7I*63%GO)mDy%r+18X",
+    "gender": "M",
+    "salary": 5425.30
+}
+{
+    "id": 50821,
+    "login": "evan.lee",
+    "password": "gP1ax$Q&cbgl7$8SAIN*QcQuDi7_g",
+    "gender": "M",
+    "salary": 8415.60
+}
+{
+    "id": 50348,
+    "login": "john.miller",
+    "password": "wS6Jn@qR0_hw2Jnn)oeZY#kVkfSC(",
+    "gender": "M",
+    "salary": 8432.24
+}
+{
+    "id": 1109,
+    "login": "john.chavez",
+    "password": "RAxJJZLc4)0(vfrv)^Dbr(O#K$(X4",
+    "gender": "M",
+    "salary": 9335.67
+}
+{
+    "id": 22032,
+    "login": "anthony.hunt",
+    "password": "1U^AL!tzumk8*5sktX%3HkiLi*Y&6",
+    "gender": "M",
+    "salary": 9328.14
+}
+{
+    "id": 91416,
+    "login": "steven.martin",
+    "password": "TVlO(z^b5)#xG2vv&_(U2D$xSZavN",
+    "gender": "M",
+    "salary": 4629.30
+}
+{
+    "id": 38669,
+    "login": "michael.benjam",
+    "password": "onE*EV(213v0ti))0hqqpUxn#(mWd",
+    "gender": "M",
+    "salary": 8843.30
+}
+{
+    "id": 19394,
+    "login": "ray.bell",
+    "password": "FEqQd@zrqlFRCSng44*G(GP6E%#^J",
+    "gender": "M",
+    "salary": 4234.30
+}
+{
+    "id": 22731,
+    "login": "jonathan.brock",
+    "password": "19*1ImqY3lxen2qH)QF#hWS!AsZCs",
+    "gender": "M",
+    "salary": 6065.97
+}
+{
+    "id": 92343,
+    "login": "anthony.jenkin",
+    "password": "mx*H$e4M$2*3NG@@2^lu7rX#xk6&#",
+    "gender": "M",
+    "salary": 3300.87
+}
+{
+    "id": 86227,
+    "login": "franklin.giles",
+    "password": "_D8R@!uy6s8#!J3FJ_k)JLd4nWw#)",
+    "gender": "M",
+    "salary": 6473.60
+}
+{
+    "id": 84237,
+    "login": "mark.carson",
+    "password": "_D3aHmSw1Y+PlpE%P&!S+*3LLwoFX",
+    "gender": "M",
+    "salary": 6711.93
+}
+{
+    "id": 31272,
+    "login": "rodney.collins",
+    "password": "0@gQT$&g)9Bf_$vYbF0Zfxv4#j)9t",
+    "gender": "M",
+    "salary": 5790.90
+}
+{
+    "id": 41797,
+    "login": "john.wilson",
+    "password": "6)ttR%fMaU^7KOIu)im_DkeGUo7e2",
+    "gender": "M",
+    "salary": 6054.09
+}
+{
+    "id": 96165,
+    "login": "david.allen",
+    "password": "F9UwAqs0ro0Mku5WV1L9Yi@xm+Rkv",
+    "gender": "M",
+    "salary": 7788.74
+}
+{
+    "id": 91970,
+    "login": "gary.perez",
+    "password": "299Ap*Tqe&74KOTsszyYJCTF@Qz3x",
+    "gender": "M",
+    "salary": 8981.98
+}
+{
+    "id": 90988,
+    "login": "jesus.beck",
+    "password": "h0B%T4p9FfQVCB+h1avCCXPb_kZWf",
+    "gender": "M",
+    "salary": 4812.87
+}
+{
+    "id": 9112,
+    "login": "david.sullivan",
+    "password": "cfZ4NdHp%lBicccv(oigTloN_5@rd",
+    "gender": "M",
+    "salary": 3580.80
+}
+{
+    "id": 65645,
+    "login": "steven.hall",
+    "password": ")I6CpxbNaHb73JpYwdfN5Mxsa*ThV",
+    "gender": "M",
+    "salary": 8115.99
+}
+{
+    "id": 12835,
+    "login": "matthew.wilcox",
+    "password": "k^h#k9@UiaVjbKvDPvs5(eTjzchv(",
+    "gender": "M",
+    "salary": 8084.85
+}
+{
+    "id": 42486,
+    "login": "benjamin.garci",
+    "password": "JoPNy8QwY@4ffDl(bN$GOwR2(vubB",
+    "gender": "M",
+    "salary": 3074.92
+}
+{
+    "id": 57716,
+    "login": "cody.arias",
+    "password": "ivMPoiK&&5*+7T9kaY70R2fpf8UOt",
+    "gender": "M",
+    "salary": 9176.31
+}
+{
+    "id": 48354,
+    "login": "brian.ingram",
+    "password": "8pUHlqWj46gJkF1C%Uok8AjS(nzYD",
+    "gender": "M",
+    "salary": 2253.86
+}
+{
+    "id": 13436,
+    "login": "keith.sparks",
+    "password": "fxGpEqtGcS%2bbHnIZ(vL@3#q!23F",
+    "gender": "M",
+    "salary": 9865.97
+}
+{
+    "id": 6279,
+    "login": "brett.sandoval",
+    "password": "XEA!t1^W)RJgFK&6eklB3yOoP0JPW",
+    "gender": "M",
+    "salary": 2661.16
+}
+{
+    "id": 33607,
+    "login": "andre.cummings",
+    "password": "o*V*lubc8yWn%)@8_6+4vYX&cy^oE",
+    "gender": "M",
+    "salary": 7359.69
+}
+{
+    "id": 44171,
+    "login": "richard.hatfie",
+    "password": "9S7AWZhSbg8LEanmg9)a7C%_MfgUq",
+    "gender": "M",
+    "salary": 4476.62
+}
+{
+    "id": 45831,
+    "login": "ryan.smith",
+    "password": "L6ZTLjiF&h6a*(a2(etwbeCxI3%*X",
+    "gender": "M",
+    "salary": 2677.86
+}
+{
+    "id": 61575,
+    "login": "marcus.robinso",
+    "password": "x(hfdg(9rWBx1tiK)y_Eh*3vt1&2c",
+    "gender": "M",
+    "salary": 4682.52
+}
+{
+    "id": 81162,
+    "login": "nathan.thompso",
+    "password": "ZZV(S*5EDH*POmGHV$&uI9WXcHx+V",
+    "gender": "M",
+    "salary": 6401.06
+}
+{
+    "id": 57971,
+    "login": "larry.espinoza",
+    "password": "a@8Rghfk9tiiYCld6)RKO)xn%Tyew",
+    "gender": "M",
+    "salary": 8139.17
+}
+{
+    "id": 74630,
+    "login": "michael.taylor",
+    "password": "8L^E2Z^3zU2MX&5D1O^+Zs+yKrV0D",
+    "gender": "M",
+    "salary": 5458.30
+}
+{
+    "id": 52257,
+    "login": "cody.nelson",
+    "password": "4acze!(hCTO7#8bIn$MbvaQH^MGcz",
+    "gender": "M",
+    "salary": 5466.43
+}
+{
+    "id": 30415,
+    "login": "gregory.martin",
+    "password": "z1RQ7n7B%3fDsvU9I&k_GLY9N!M1@",
+    "gender": "M",
+    "salary": 5313.24
+}
+{
+    "id": 50192,
+    "login": "david.berry",
+    "password": "3tF+p^Ta)%hr^(uAiKvB)f%6u8*0S",
+    "gender": "M",
+    "salary": 7089.67
+}
+{
+    "id": 45661,
+    "login": "randy.wright",
+    "password": "A)^d06qO&!f_muujHlMNx4iH)w69*",
+    "gender": "M",
+    "salary": 3727.30
+}
+{
+    "id": 25426,
+    "login": "john.kim",
+    "password": "Wh0u(M@#wqQ9kRn4cnjFEQORn$!og",
+    "gender": "M",
+    "salary": 7426.18
+}
+{
+    "id": 15970,
+    "login": "david.kennedy",
+    "password": "KRuVz#l^VwRu13*nslm&z^N18uBYw",
+    "gender": "M",
+    "salary": 5128.50
+}
+{
+    "id": 22938,
+    "login": "isaiah.garcia",
+    "password": "!4!XvLqy*+5WLJRY6T6g0^$rnWSIl",
+    "gender": "M",
+    "salary": 2516.46
+}
+{
+    "id": 35868,
+    "login": "matthew.richar",
+    "password": "tEecSHZYiBQA^+twhCB_b8o5$8u+e",
+    "gender": "M",
+    "salary": 9853.71
+}
+{
+    "id": 14589,
+    "login": "brandon.clark",
+    "password": "7yFqlz!npLx&8aCBD+A1ikwU+vn4P",
+    "gender": "M",
+    "salary": 6665.03
+}
+{
+    "id": 77348,
+    "login": "carl.caldwell",
+    "password": "KIusMQyzDnRXo)&PSLMfQWm!7q$fN",
+    "gender": "M",
+    "salary": 8808.16
+}
+{
+    "id": 76632,
+    "login": "thomas.smith",
+    "password": "$7CIbFUNkla%Isk#9Hcr^)xZX*AH2",
+    "gender": "M",
+    "salary": 7576.50
+}
+{
+    "id": 20189,
+    "login": "jimmy.fisher",
+    "password": "vT71dLq8QXxV26nHS1)3NRh!_^AcX",
+    "gender": "M",
+    "salary": 8344.05
+}
+{
+    "id": 75413,
+    "login": "reginald.barbe",
+    "password": "mav3$1_RIna&Xxp_s*K3)Jm5yIGVJ",
+    "gender": "M",
+    "salary": 3724.80
+}
+{
+    "id": 13671,
+    "login": "kevin.edwards",
+    "password": "#$18yobduE)ojfFhAQY@@ZH)3DpBu",
+    "gender": "M",
+    "salary": 2578.59
+}
+{
+    "id": 92457,
+    "login": "john.sandoval",
+    "password": ")IOTWXmgl!o^1AjzUu&!yxeIkSTuV",
+    "gender": "M",
+    "salary": 6668.53
+}
+{
+    "id": 70670,
+    "login": "kyle.bullock",
+    "password": "lnY88QY*_M3aHmdf9D9ROruNIdk0z",
+    "gender": "M",
+    "salary": 5280.46
+}
+{
+    "id": 93816,
+    "login": "chad.ellis",
+    "password": "9ZI_B_R4*2#7+N%o0vruNeEzGf%+i",
+    "gender": "M",
+    "salary": 2638.29
+}
+{
+    "id": 92482,
+    "login": "william.griffi",
+    "password": "A2lA$7(QPJDwS%Gdsu)fH+&*b#V)c",
+    "gender": "M",
+    "salary": 8955.75
+}
+{
+    "id": 25130,
+    "login": "john.lewis",
+    "password": "UCA8Vl&Uz4oNfku@oBPEpvzS+5IO$",
+    "gender": "M",
+    "salary": 6846.43
+}
+{
+    "id": 71726,
+    "login": "joel.jones",
+    "password": "u3P!Xg^j#sDWeXUtosy4viP_#W*bP",
+    "gender": "M",
+    "salary": 2405.03
+}
+{
+    "id": 92246,
+    "login": "brian.branch",
+    "password": "!*iak7#bi!6Um9F)$SW#3pCc80QJC",
+    "gender": "M",
+    "salary": 3426.45
+}
+{
+    "id": 33599,
+    "login": "jeffrey.mitche",
+    "password": "4U%g)ZV8bprpHUW$LDH%2Oxq7&6t*",
+    "gender": "M",
+    "salary": 8768.30
+}
+{
+    "id": 59387,
+    "login": "tyler.johnson",
+    "password": "$TD54ab+4S^8kAI$%B*IBn7hl6vGU",
+    "gender": "M",
+    "salary": 8948.26
+}
+{
+    "id": 16607,
+    "login": "kevin.pacheco",
+    "password": "!DPti11AI$WZL^W2k)^17%K^yWqeU",
+    "gender": "M",
+    "salary": 2992.29
+}
+{
+    "id": 24091,
+    "login": "matthew.mitche",
+    "password": "3WgRhs_72wrsp5Ls+m(b+0IANxNJs",
+    "gender": "M",
+    "salary": 5043.79
+}
+{
+    "id": 8628,
+    "login": "paul.harris",
+    "password": "_3BT&MVSj1Q2VA&Ybu43rgbvYtJ6O",
+    "gender": "M",
+    "salary": 9551.61
+}
+{
+    "id": 53303,
+    "login": "curtis.bradley",
+    "password": "ZX9ipPrkCW1yWV)AXhB3PlV9fv#rk",
+    "gender": "M",
+    "salary": 3875.77
+}
+{
+    "id": 74697,
+    "login": "christopher.ca",
+    "password": "WFnM@7!bW1B7Xe%r)Do!qrU1GalYf",
+    "gender": "M",
+    "salary": 2141.72
+}
+{
+    "id": 43873,
+    "login": "jacob.graves",
+    "password": "d3uRxbNmxgN%pZ&q*um8aVuOuoRM6",
+    "gender": "M",
+    "salary": 8007.42
+}
+{
+    "id": 4039,
+    "login": "hector.singh",
+    "password": "kqTdFzs5WuL33BLivddu*C3T^NzgY",
+    "gender": "M",
+    "salary": 6397.87
+}
+{
+    "id": 96331,
+    "login": "brandon.mccull",
+    "password": "7&Ih1*XWfCu1^xR#kPyVVVch!tqJ0",
+    "gender": "M",
+    "salary": 5378.28
+}
+{
+    "id": 41347,
+    "login": "james.macias",
+    "password": "a&3@@aE(cHeg_ZBdlwwTHHqZqB7@_",
+    "gender": "M",
+    "salary": 5948.40
+}
+{
+    "id": 28281,
+    "login": "kenneth.jackso",
+    "password": "L0&6^hYhXqX@+PzCOkvxV*UlSkVVF",
+    "gender": "M",
+    "salary": 4059.68
+}
+{
+    "id": 44299,
+    "login": "darryl.sosa",
+    "password": "FGSXXPiI&pmQDTx%5Cw$wstzpLSG!",
+    "gender": "M",
+    "salary": 8178.54
+}
+{
+    "id": 38649,
+    "login": "james.barnes",
+    "password": "iO*A_bPFdvUBrX_O0h7miF1JE!*9o",
+    "gender": "M",
+    "salary": 2768.77
+}
+{
+    "id": 10274,
+    "login": "daniel.park",
+    "password": "_Wl82Rs$m(8NVGnWhJDryc++2v1$K",
+    "gender": "M",
+    "salary": 6576.59
+}
+{
+    "id": 6170,
+    "login": "david.hickman",
+    "password": "9ln9iv5HOjfFeG4wUnjcU%3lkKnYE",
+    "gender": "M",
+    "salary": 4314.40
+}
+{
+    "id": 70275,
+    "login": "george.colon",
+    "password": "U4n+7HCq*%tO2WyYQENngZCNUuLXI",
+    "gender": "M",
+    "salary": 5533.32
+}
+{
+    "id": 19478,
+    "login": "adam.colon",
+    "password": "ysWcx$O+lU)Ei8KzdaQdWSGc##hD5",
+    "gender": "M",
+    "salary": 8659.52
+}
+{
+    "id": 77676,
+    "login": "andrew.nichols",
+    "password": "H&Od2#^W3QZ$b7hHgBRVU2_X)!75I",
+    "gender": "M",
+    "salary": 4402.01
+}
+{
+    "id": 73277,
+    "login": "nathaniel.barn",
+    "password": "qf*7DDi@y@N0tBKp3x2GPXtkOW))S",
+    "gender": "M",
+    "salary": 7193.31
+}
+{
+    "id": 58504,
+    "login": "dustin.martin",
+    "password": "#jOk1uI+Ub3M#w5p%!W%J)XqTrVmJ",
+    "gender": "M",
+    "salary": 2427.63
+}
+{
+    "id": 57825,
+    "login": "dominic.taylor",
+    "password": "P*LJbfiTt&5rTfxJ9a9gya6xF^oZ6",
+    "gender": "M",
+    "salary": 4502.48
+}
+{
+    "id": 5319,
+    "login": "daniel.contrer",
+    "password": "JGDi16Gr(X2135iTEZNhUo6tSiV3y",
+    "gender": "M",
+    "salary": 5783.55
+}
+{
+    "id": 89891,
+    "login": "jonathan.mille",
+    "password": "@d3$ystEUsvi@XWv^js0ACnljle4C",
+    "gender": "M",
+    "salary": 2859.28
+}
+{
+    "id": 41039,
+    "login": "mike.caldwell",
+    "password": "%0^%$hkZ+*bNQS&sm$MCWpySiul7R",
+    "gender": "M",
+    "salary": 7533.91
+}
+{
+    "id": 93524,
+    "login": "darren.brewer",
+    "password": "zf7#MLts)9NSNLEJ%%HPX4!B9mBkr",
+    "gender": "M",
+    "salary": 6233.16
+}
+{
+    "id": 18656,
+    "login": "miguel.peters",
+    "password": "PnPsPElhzudqVa4gve5Zm%w2%x8rW",
+    "gender": "M",
+    "salary": 7471.25
+}
+{
+    "id": 41720,
+    "login": "james.scott",
+    "password": "L68%@ehZ861Dhw&s9*W!nUsRyp+Tr",
+    "gender": "M",
+    "salary": 2475.47
+}
+{
+    "id": 95869,
+    "login": "phillip.dawson",
+    "password": "1Wi8QMcw(uaaYE+WbsrliMTB_2UT8",
+    "gender": "M",
+    "salary": 6160.19
+}
+{
+    "id": 70756,
+    "login": "john.mueller",
+    "password": "OkeUP^AR7!ZOYg*a+S1TCH%$I8(e&",
+    "gender": "M",
+    "salary": 5447.34
+}
+{
+    "id": 78100,
+    "login": "harry.schneide",
+    "password": "3qnW16DB+qS$MK!eIWin3!OormFd3",
+    "gender": "M",
+    "salary": 2739.19
+}
+{
+    "id": 15216,
+    "login": "james.anderson",
+    "password": "O70OP39G#Pu8qNdZwb_ypQlkdXPD_",
+    "gender": "M",
+    "salary": 2125.36
+}
+{
+    "id": 45067,
+    "login": "matthew.rowlan",
+    "password": "H)Ij(9yY+)rL%YEloF6EzrwxCShts",
+    "gender": "M",
+    "salary": 8521.66
+}
+{
+    "id": 42734,
+    "login": "scott.jenkins",
+    "password": "tQE18!P$uNSc9*fn$90)N6&Q_dWbp",
+    "gender": "M",
+    "salary": 9223.83
+}
+{
+    "id": 38029,
+    "login": "thomas.sutton",
+    "password": "r(zetQQbtYCp$Lqn(7+b0PY2PI$7t",
+    "gender": "M",
+    "salary": 2762.28
+}
+{
+    "id": 54197,
+    "login": "lawrence.barne",
+    "password": "N9#HpHgI##HK2v@Nh+Ec4DcGxRNKU",
+    "gender": "M",
+    "salary": 4391.05
+}
+{
+    "id": 63108,
+    "login": "brett.short",
+    "password": "p#UkkZgy7U9(BYesvWM8GuHtv%Y7)",
+    "gender": "M",
+    "salary": 7718.98
+}
+{
+    "id": 47232,
+    "login": "brian.simpson",
+    "password": "FNW(ZdPx7@PpGit)Mce7YsDP0j24x",
+    "gender": "M",
+    "salary": 2417.04
+}
+{
+    "id": 76157,
+    "login": "dillon.william",
+    "password": "pAV&j6oj(#ebnKa9y0ZAKGk@L72qu",
+    "gender": "M",
+    "salary": 4692.00
+}
+{
+    "id": 4885,
+    "login": "michael.lyons",
+    "password": "eHYRxsve!(#k8IRTZ3L%n8mKhDNxP",
+    "gender": "M",
+    "salary": 2079.87
+}
+{
+    "id": 87737,
+    "login": "charles.kelly",
+    "password": "Rr4iaGmq#2XaOnd#%j$Sxr@)R4FpL",
+    "gender": "M",
+    "salary": 8511.14
+}
+{
+    "id": 86673,
+    "login": "christopher.co",
+    "password": "1cI4IS2H#uLuB)PmrUAij7Vuh$#vQ",
+    "gender": "M",
+    "salary": 5421.64
+}
+{
+    "id": 38033,
+    "login": "alan.russell",
+    "password": "$MLMb7wQ(8S3ygEh43Uw0lDO0Ujg+",
+    "gender": "M",
+    "salary": 8532.82
+}
+{
+    "id": 7865,
+    "login": "william.philli",
+    "password": "_KQ+qpnjM2ETRaj#ginIPDWPpg!eu",
+    "gender": "M",
+    "salary": 3761.99
+}
+{
+    "id": 74793,
+    "login": "andrew.gilbert",
+    "password": "k!%%GqEcfoALL%f*8oS)r@JqEf17v",
+    "gender": "M",
+    "salary": 4175.70
+}
+{
+    "id": 19212,
+    "login": "dan.jones",
+    "password": "oo4ZykL%_Q9Oj!ui6x)Lgn*eiP_lI",
+    "gender": "M",
+    "salary": 7658.36
+}
+{
+    "id": 55917,
+    "login": "david.chavez",
+    "password": "rkFbI^mg_wm1eWSt3R$0V3kdhXphc",
+    "gender": "M",
+    "salary": 6114.41
+}
+{
+    "id": 7634,
+    "login": "david.johnson",
+    "password": "g(!0LED2gxQ!@jQvVySZG64r1za+8",
+    "gender": "M",
+    "salary": 9900.60
+}
+{
+    "id": 25174,
+    "login": "charles.thomas",
+    "password": "&_teOof^UQ^g3R)XQbva0Rt2uF3Xq",
+    "gender": "M",
+    "salary": 7361.28
+}
+{
+    "id": 55573,
+    "login": "ruben.gomez",
+    "password": "zi#KnrEVt^e!)KnOLnaQmgW_ucfc1",
+    "gender": "M",
+    "salary": 3887.78
+}
+{
+    "id": 61435,
+    "login": "matthew.stephe",
+    "password": "#R&Kn5mTtdFBIMgvkV@)6G%FyD3ly",
+    "gender": "M",
+    "salary": 2630.02
+}
+{
+    "id": 95933,
+    "login": "jeffrey.oconno",
+    "password": "!2tzi8y@#T73nWLg2b&Xl^dr&IGfb",
+    "gender": "M",
+    "salary": 7658.83
+}
+{
+    "id": 70993,
+    "login": "christopher.sa",
+    "password": "*mOB$(Chc63F8nHC$Chp&&dL&vU(w",
+    "gender": "M",
+    "salary": 3554.06
+}
+{
+    "id": 2918,
+    "login": "spencer.rivera",
+    "password": "E+wdS1Yud34rXjxOqy_Cd&an$Yqon",
+    "gender": "M",
+    "salary": 8616.23
+}
+{
+    "id": 92121,
+    "login": "christopher.jo",
+    "password": ")eN2td$J@GWxi+9o)65n^#d#D57s+",
+    "gender": "M",
+    "salary": 5630.02
+}
+{
+    "id": 90200,
+    "login": "clifford.newma",
+    "password": "U*@$$3o_8U#*EtJPJ^5w0Oqm&$K5)",
+    "gender": "M",
+    "salary": 9734.65
+}
+{
+    "id": 38933,
+    "login": "ryan.barnes",
+    "password": "wnQY!kBJHEkLsRn*dY1L_0Ejz*91Y",
+    "gender": "M",
+    "salary": 7495.67
+}
+{
+    "id": 84273,
+    "login": "nathan.reid",
+    "password": "EHbk6cd10t#mYSLf(&e&B5Minc7Ql",
+    "gender": "M",
+    "salary": 7977.58
+}
+{
+    "id": 38297,
+    "login": "robert.wagner",
+    "password": "dsIrxprslu+6MQ0GO!QxNI$&+ceKF",
+    "gender": "M",
+    "salary": 4714.17
+}
+{
+    "id": 63795,
+    "login": "jeffrey.richar",
+    "password": "GCldcWAAWdaE&#q_)nOI4cG7F@u1^",
+    "gender": "M",
+    "salary": 5039.27
+}
+{
+    "id": 2765,
+    "login": "robert.watson",
+    "password": "Mjx%6PsjuD6$*k1QtpS#UZH^0ufK3",
+    "gender": "M",
+    "salary": 7081.21
+}
+{
+    "id": 64440,
+    "login": "seth.smith",
+    "password": "@OL9KSzq2Yx^m1hgRHIUic7*!rRo7",
+    "gender": "M",
+    "salary": 2874.96
+}
+{
+    "id": 2889,
+    "login": "matthew.nelson",
+    "password": "^geh^f2lTcFeMshg2qMgTeelLvuUN",
+    "gender": "M",
+    "salary": 4461.38
+}
+{
+    "id": 1169,
+    "login": "scott.watson",
+    "password": "Btys)2qVMmQ^0b)+o&NvmsYmSEObL",
+    "gender": "M",
+    "salary": 6001.39
+}
+{
+    "id": 79273,
+    "login": "michael.obrien",
+    "password": "(AWcC0&67WRTupas6xH5m@BGk0i0(",
+    "gender": "M",
+    "salary": 8267.09
+}
+{
+    "id": 11741,
+    "login": "jesse.williams",
+    "password": "_+M!E7JL$r^J1G_%l1z2pyWqs$KT6",
+    "gender": "M",
+    "salary": 3999.65
+}
+{
+    "id": 47519,
+    "login": "drew.miller",
+    "password": "VAnMtgDhYOlyKuifG1@&TWPb$zkJ3",
+    "gender": "M",
+    "salary": 4249.33
+}
+{
+    "id": 36740,
+    "login": "johnny.davis",
+    "password": "!hRq_eK%88RikwX@@gD)Hu#hXC9W+",
+    "gender": "M",
+    "salary": 5598.06
+}
+{
+    "id": 76616,
+    "login": "cole.vaughn",
+    "password": "^m6!jN@$rY6Pib!b4^3HVy^*Zi5Qg",
+    "gender": "M",
+    "salary": 6259.21
+}
+{
+    "id": 12127,
+    "login": "richard.olsen",
+    "password": "&2wcWAGHX4PdT0P6gvSA3)TtawYKp",
+    "gender": "M",
+    "salary": 8457.37
+}
+{
+    "id": 5117,
+    "login": "chad.washingto",
+    "password": "msqXb%MjRj(pg9lh!GWsBFaTPpcGo",
+    "gender": "M",
+    "salary": 5562.61
+}
+{
+    "id": 69811,
+    "login": "michael.sherma",
+    "password": "mQhv0TT(OsMOmp#n5@3LUEfV^oOVF",
+    "gender": "M",
+    "salary": 7297.27
+}
+{
+    "id": 36405,
+    "login": "john.hart",
+    "password": "5X$03hzbXYPXY*!$+2HHGeicG*+rq",
+    "gender": "M",
+    "salary": 8460.19
+}
+{
+    "id": 18025,
+    "login": "eric.stephenso",
+    "password": "isx_Dtat@MZ)90CF@m4f!t6y%5IVc",
+    "gender": "M",
+    "salary": 6061.96
+}
+{
+    "id": 34222,
+    "login": "kyle.hill",
+    "password": "_iBpjhC0Mky#!7U1_yVGKA+te*5$M",
+    "gender": "M",
+    "salary": 2446.40
+}
+{
+    "id": 70095,
+    "login": "dennis.simpson",
+    "password": "S@nqi1^WOFxCBMq$6f#6^6m*hVh&C",
+    "gender": "M",
+    "salary": 5370.17
+}
+{
+    "id": 42498,
+    "login": "joel.powell",
+    "password": "ip7aZ+0tH4RMy%afq7e$X!iIeEY9V",
+    "gender": "M",
+    "salary": 4578.60
+}
+{
+    "id": 37440,
+    "login": "james.peters",
+    "password": "bho5J@(SU7c)fivxV%gpPbw2*&djZ",
+    "gender": "M",
+    "salary": 7617.13
+}
+{
+    "id": 99294,
+    "login": "james.kennedy",
+    "password": "yV94(SANJ4imEnJq2MyiFUO4#OLWE",
+    "gender": "M",
+    "salary": 8541.37
+}
+{
+    "id": 65639,
+    "login": "brian.white",
+    "password": "60lXo(6cxFRes1NrszQ^Voka%@j4L",
+    "gender": "M",
+    "salary": 8002.12
+}
+{
+    "id": 82906,
+    "login": "gregory.pruitt",
+    "password": "60Jr9X2k9gDPhX@c!yQ*PK(e&Ub3x",
+    "gender": "M",
+    "salary": 9323.53
+}
+{
+    "id": 19532,
+    "login": "ricardo.gray",
+    "password": "2CJXITOR6zow*t*hFid_QQm2%1cv0",
+    "gender": "M",
+    "salary": 2454.84
+}
+{
+    "id": 20441,
+    "login": "austin.butler",
+    "password": "%(b0$qMLf9b9194el1&OY9J@*sh%n",
+    "gender": "M",
+    "salary": 4333.64
+}
+{
+    "id": 34213,
+    "login": "tanner.garza",
+    "password": "%6n54ed&Nvu2(lAKc20#PLN)t!CG4",
+    "gender": "M",
+    "salary": 3912.01
+}
+{
+    "id": 57887,
+    "login": "oscar.hayes",
+    "password": "X0zA93okELyKdRiDecrtU3^oRJ)##",
+    "gender": "M",
+    "salary": 7172.98
+}
+{
+    "id": 54556,
+    "login": "brian.mccoy",
+    "password": "(7W!v)#5&xDx7ee6$UZH(7ScngB2l",
+    "gender": "M",
+    "salary": 6603.27
+}
+{
+    "id": 99655,
+    "login": "logan.carroll",
+    "password": "dB&dX9c%z*o8vA!6qNWLvsgyd^fXi",
+    "gender": "M",
+    "salary": 4733.02
+}
+{
+    "id": 50279,
+    "login": "andrew.conrad",
+    "password": "%&toWOJlkzYrp#h2^!uU^SJSht9Ce",
+    "gender": "M",
+    "salary": 7781.19
+}
+{
+    "id": 52434,
+    "login": "jason.mcpherso",
+    "password": "&!b+OHk$TV#3_$$U@$M@gk!cX*L&9",
+    "gender": "M",
+    "salary": 2079.77
+}
+{
+    "id": 5170,
+    "login": "jason.valentin",
+    "password": "*v28ilMCgxg7ya9gkvo^HKl@FPfW+",
+    "gender": "M",
+    "salary": 5635.13
+}
+{
+    "id": 3031,
+    "login": "mark.dougherty",
+    "password": "1baOZjIIu+SDf!1Q$h6lUqKh5B5iX",
+    "gender": "M",
+    "salary": 6037.04
+}
+{
+    "id": 86645,
+    "login": "chris.baxter",
+    "password": "_#Xf#rv7IUBr&@viS6L+L6E0s+5Ae",
+    "gender": "M",
+    "salary": 5373.26
+}
+{
+    "id": 40128,
+    "login": "nathan.palmer",
+    "password": "QhYHdD!2U^BYWxYPS6a@5PMrGQ36B",
+    "gender": "M",
+    "salary": 9765.98
+}
+{
+    "id": 18885,
+    "login": "keith.griffin",
+    "password": "Be)f3BVQq*BWevhj_YBe0!)D@2eUn",
+    "gender": "M",
+    "salary": 5193.51
+}
+{
+    "id": 1443,
+    "login": "jaime.brown",
+    "password": "T^Fx5@Olr)MkWyJBpn%R!JgBh*_0f",
+    "gender": "M",
+    "salary": 2729.86
+}
+{
+    "id": 34905,
+    "login": "timothy.morale",
+    "password": "rhlX&dUtybiQ*IzHT#cY+9@x!UbP*",
+    "gender": "M",
+    "salary": 4365.20
+}
+{
+    "id": 75516,
+    "login": "christopher.ja",
+    "password": "R8Yy9YpjE#jYcOM@uf@7q@&eH2ho*",
+    "gender": "M",
+    "salary": 9087.83
+}
+{
+    "id": 3832,
+    "login": "dalton.flores",
+    "password": "I1A!0Q(Nx+3KHB&psTWDl!w9)l6PU",
+    "gender": "M",
+    "salary": 7361.01
+}
+{
+    "id": 65412,
+    "login": "charles.adkins",
+    "password": "vxf7t&nlzL(9tWX#wlOD7FNq2#&A0",
+    "gender": "M",
+    "salary": 5753.98
+}
+{
+    "id": 19918,
+    "login": "james.cox",
+    "password": "dYVW3rsbP#7#&uzY^p8zZvSG%(32U",
+    "gender": "M",
+    "salary": 7430.42
+}
+{
+    "id": 69640,
+    "login": "antonio.contre",
+    "password": "VT5KHtF2wWFwqn7Q&t4D_vKOSY5_z",
+    "gender": "M",
+    "salary": 8238.25
+}
+{
+    "id": 38289,
+    "login": "philip.smith",
+    "password": "1@V!Zz3*@*28T2Hxtv95_69WsNDyA",
+    "gender": "M",
+    "salary": 9537.31
+}
+{
+    "id": 8779,
+    "login": "david.sulliva1",
+    "password": "ay!jHu5X#d9^TsSbX#lq$w)gf#k!i",
+    "gender": "M",
+    "salary": 7790.86
+}
+{
+    "id": 69293,
+    "login": "benjamin.palme",
+    "password": "xs7_zphqR*n*p6z8a^k3Z5pq_D6u7",
+    "gender": "M",
+    "salary": 7162.09
+}
+{
+    "id": 6801,
+    "login": "troy.wilkinson",
+    "password": "C6alNk@Pm1OK0AthNzQ$w*)q^0*67",
+    "gender": "M",
+    "salary": 4686.65
+}
+{
+    "id": 95943,
+    "login": "jason.fields",
+    "password": "cT3@RfHWtE7vQpN8_$_9hdI#p+0)(",
+    "gender": "M",
+    "salary": 7241.97
+}
+{
+    "id": 31974,
+    "login": "eric.williams",
+    "password": "4xZZKGY!D6)o8U%8wZRC*brCgnlDU",
+    "gender": "M",
+    "salary": 4478.83
+}
+{
+    "id": 58891,
+    "login": "johnny.green",
+    "password": "_AF7luZWH&hDIGSJp7IrmKXmB6E&Q",
+    "gender": "M",
+    "salary": 6548.70
+}
+{
+    "id": 24755,
+    "login": "eric.pruitt",
+    "password": "bev)0WWiQ!0QdMC+7ad%ZlS^W#fZw",
+    "gender": "M",
+    "salary": 5267.64
+}
+{
+    "id": 73707,
+    "login": "joseph.myers",
+    "password": "%w06ymZwxpZSGg0&&(&LNoOZYCDwG",
+    "gender": "M",
+    "salary": 3066.62
+}
+{
+    "id": 63603,
+    "login": "gregory.richar",
+    "password": "R&deWW&2saGyIHV0V51sEd$*S$irC",
+    "gender": "M",
+    "salary": 7221.40
+}
+1 registro(s) removido(s).
+1 registro(s) removido(s).

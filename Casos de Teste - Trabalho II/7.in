@@ -1,0 +1,58 @@
+data_7.json
+2 "gender" "F"
+2 "salary" 3300.25
+2 "id" 117
+3 "gender" "Z"
+3 "password" "wrongpass"
+3 "login" "ntaylor"
+1 101 "jdoe" "password123" "M" 3200.50
+1 102 "asmith" "qwerty456" "F" 4100.00
+1 103 "bjones" "letmein789" "M" 2900.00
+1 104 "clark" "secure1234" "F" 3800.75
+1 105 "dwilson" "pass 321" "M" 5000.00
+1 106 "emartin" "myp@ssword" "F" 4700.00
+1 107 "fwhite" "whitepass" "M" 3300.25
+1 108 "ggreen" "greenleaf" "F" 3900.90
+1 109 "hhall" "hall!secure" "M" 5200.10
+1 110 "iknight" "kn1ght!" "F" 4400.00
+2 "gender" "M"
+2 "gender" "F"
+2 "salary" 3300.25
+2 "login" "emartin"
+2 "id" 105
+2 "abc" 105
+2 "login" "unknown_user"
+2 "salary" 9999.99
+2 "id" 999
+2 "gender" "X"
+3 "id" 103
+3 "login" "clark"
+3 "salary" 4700.00
+3 "abc" 108
+3 "id" 999
+3 "login" "ghost"
+3 "gender" "Z"
+3 "password" "wrongpass"
+1 111 "jjames" "jamie123" "M" 3450.75
+1 112 "kroberts" "robpass!" "F" 4620.30
+1 113 "llee" "lee2022" "M" 3100.00
+1 114 "mscott" "scottfree" "F" 4999.99
+1 115 "ntaylor" "taylor77" "M" 2888.88
+1 116 "oparker" "parkerpass" "F" 4700.00
+1 117 "qyoung" "young1" "M" 3000.00
+1 118 "rhill" "hilltop" "F" 4100.00
+1 119 "sward" "warded" "M" 3750.50
+1 120 "ttorres" "torres@21" "F" 3555.55
+2 "login" "jjames"
+2 "id" 117
+2 "gender" "F"
+2 "salary" 3555.55
+2 "login" "ghost"
+2 "password" "pass 321"
+2 "nonexistent" 100
+3 "id" 102
+3 "login" "ntaylor"
+3 "gender" "M"
+3 "xyz" "something"
+3 "login" "doesnotexist"
+3 "id" 200

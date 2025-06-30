@@ -1,0 +1,22 @@
+0 registro(s) lido(s).
+Registro inserido.
+Registro inserido.
+Registro inserido.
+{
+    "id": 2,
+    "login": "mariarodr",
+    "password": "segura12345678",
+    "gender": "F",
+    "salary": 4200.00
+}
+Nada encontrado.
+1 registro(s) removido(s).
+Remoção inválida.
+{
+    "id": 2,
+    "login": "mariarodr",
+    "password": "segura12345678",
+    "gender": "F",
+    "salary": 4200.00
+}
+Nada encontrado.

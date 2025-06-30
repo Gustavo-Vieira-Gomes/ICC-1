@@ -1,0 +1,12 @@
+data_3.json
+1 100901 "lucas_fern" "lucaspass123456" "M" 5100.25
+1 322236 "larissa.l" "larissenha88" "F" 4700.10
+3 "id" 77519
+3 "id" 93922
+1 100901 "lucas_fern" "lucaspass123456" "M" 5100.25
+1 322236 "larissa.l" "larissenha88" "F" 4700.10
+2 "login" "lucas_fern"
+2 "salary" 4700.10
+2 "gender" "M"
+3 "password" "lucaspass123456"
+3 "password" "larissenha88"

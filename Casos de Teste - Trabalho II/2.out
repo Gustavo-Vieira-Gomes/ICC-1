@@ -1,0 +1,35 @@
+3 registro(s) lido(s).
+{
+    "id": 1,
+    "login": "joaosilva",
+    "password": "senha1234567890",
+    "gender": "M",
+    "salary": 3500.75
+}
+{
+    "id": 3,
+    "login": "lucas_fern",
+    "password": "lucaspass123456",
+    "gender": "M",
+    "salary": 5100.25
+}
+Registro inserido.
+{
+    "id": 33,
+    "login": "login_1",
+    "password": "pswrd x",
+    "gender": "M",
+    "salary": 1020.20
+}
+Remoção inválida.
+1 registro(s) removido(s).
+{
+    "id": 3,
+    "login": "lucas_fern",
+    "password": "lucaspass123456",
+    "gender": "M",
+    "salary": 5100.25
+}
+Nada encontrado.
+2 registro(s) removido(s).
+Nada encontrado.

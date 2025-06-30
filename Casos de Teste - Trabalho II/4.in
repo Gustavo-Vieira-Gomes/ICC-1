@@ -1,0 +1,10 @@
+data_4.json
+1 1 "joaosilva" "senha1234567890" "M" 3500.75
+1 2 "mariarodr" "segura12345678" "F" 4200.00
+1 3 "lucas_fern" "lucaspass123456" "M" 5100.25
+2 "gender" "F"
+2 "gender" "f"
+3 "login" "joaosilva"
+3 "login" "abcde"
+2 "password" "segura12345678"
+2 "password" "senha1234567890"

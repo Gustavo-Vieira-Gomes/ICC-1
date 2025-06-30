@@ -111,6 +111,7 @@ void read_file(char *filename, Registry ***registries_output, int *registries_co
     // Devolve o vetor de registros e a quantidade de registros lidos
     *registries_count_output = i;
     printf("%d registro(s) lido(s).\n", i);
+    free(buffer);
 }
 
 void print_registry(Registry registry)

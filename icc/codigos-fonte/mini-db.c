@@ -311,6 +311,10 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
                 }
             }
         }
+        if (!found)
+        {
+            printf("Remoção inválida.\n");
+        }
     }
 
     else if (strcmp(search_field, "login") == 0)
@@ -330,6 +334,10 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
                 }
             }
         }
+        if (!found)
+        {
+            printf("Remoção inválida.\n");
+        }
     }
     else if (strcmp(search_field, "password") == 0)
     {
@@ -347,6 +355,10 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
                     deleted_count++;
                 }
             }
+        }
+        if (!found)
+        {
+            printf("Remoção inválida.\n");
         }
     }
     else if (strcmp(search_field, "gender") == 0)
@@ -366,6 +378,10 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
                 }
             }
         }
+        if (!found)
+        {
+            printf("Remoção inválida.\n");
+        }
     }
     else if (strcmp(search_field, "salary") == 0)
     {
@@ -383,6 +399,10 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
                 }
             }
         }
+        if (!found)
+        {
+            printf("Remoção inválida.\n");
+        }
     }
     else
     {
@@ -392,10 +412,6 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
     if (found)
     {
         printf("%d registro(s) removido(s).\n", deleted_count);
-    }
-    else
-    {
-        printf("Remoção inválida.\n");
     }
 }
 

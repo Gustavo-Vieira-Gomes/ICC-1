@@ -321,6 +321,7 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
     {
         char login[16];
         sscanf(search_value, "\"%15[^\"]\"", login);
+        printf("%s\n", login);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
             if ((*registries)[read_index] != NULL)
@@ -343,11 +344,12 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
     {
         char password[31];
         sscanf(search_value, "\"%30[^\"]\"", password);
+        printf("%s\n", password);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
             if ((*registries)[read_index] != NULL)
             {
-                if ((*registries)[read_index]->password == password)
+                if (strcmp((*registries)[read_index]->password, password))
                 {
                     free((*registries)[read_index]);
                     (*registries)[read_index] = NULL;

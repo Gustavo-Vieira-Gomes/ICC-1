@@ -11,7 +11,7 @@ typedef struct
     double salary;
 } Registry;
 
-void read_file(char *filename, Registry **registries_output, int *registries_count_output)
+void read_file(char *filename, Registry ***registries_output, int *registries_count_output)
 // recebe um ponteiro do tipo Registry, um ponteiro para o numero de registros e o nome do arquivo. Lê o arquivo, aloca apenas a memória necessária para armazenar os registros lidos, aponta o ponteiro de registros para o array de registros criado e altera a quantidade de registros lidos
 {
     FILE *file = fopen(filename, "r");
@@ -42,19 +42,19 @@ void read_file(char *filename, Registry **registries_output, int *registries_cou
         }
     }
 
-    registries_output = (Registry **)malloc(sizeof(Registry *) * counter);
+    *registries_output = (Registry **)malloc(sizeof(Registry *) * counter);
 
     for (int i = 0; i < counter; i++)
     {
-        registries_output[i] = (Registry *)malloc(sizeof(Registry));
-        if (!registries_output[i])
+        (*registries_output)[i] = (Registry *)malloc(sizeof(Registry));
+        if (!(*registries_output)[i])
         {
             perror("Erro ao alocar memória");
             exit(1);
         }
     }
 
-    if (!registries_output)
+    if (!*registries_output)
     {
         perror("Erro ao alocar memória");
         exit(1);
@@ -77,32 +77,32 @@ void read_file(char *filename, Registry **registries_output, int *registries_cou
         char *login_field = strstr(pointer, "\"login\"");
         if (login_field && login_field < end)
         {
-            sscanf(login_field, "\"login\": \"%15[^\"]\"", registries_output[i]->login); // Salva o login no vetor Obs: leitura formatada, para salvar sem as aspas
+            sscanf(login_field, "\"login\": \"%15[^\"]\"", (*registries_output)[i]->login); // Salva o login no vetor Obs: leitura formatada, para salvar sem as aspas
         }
 
         // O mesmo se aplica para as demais leituras. Primeiro se navega até o campo desejado, e depois se extrai o valor do campo através de sscanf para salvar no tipo correto e evitar as ""
         char *password_field = strstr(pointer, "\"password\"");
         if (password_field && password_field < end)
         {
-            sscanf(password_field, "\"password\": \"%30[^\"]\"", registries_output[i]->password);
+            sscanf(password_field, "\"password\": \"%30[^\"]\"", (*registries_output)[i]->password);
         }
 
         char *gender_field = strstr(pointer, "\"gender\"");
         if (gender_field && gender_field < end)
         {
-            sscanf(gender_field, "\"gender\": \"%c\"", &registries_output[i]->gender);
+            sscanf(gender_field, "\"gender\": \"%c\"", &(*registries_output)[i]->gender);
         }
 
         char *salary_field = strstr(pointer, "\"salary\"");
         if (salary_field && salary_field < end)
         {
-            sscanf(salary_field, "\"salary\": %lf", &registries_output[i]->salary);
+            sscanf(salary_field, "\"salary\": %lf", &(*registries_output)[i]->salary);
         }
 
         char *id_field = strstr(pointer, "\"id\"");
         if (id_field && id_field < end)
         {
-            sscanf(id_field, "\"id\": %d", &registries_output[i]->id);
+            sscanf(id_field, "\"id\": %d", &(*registries_output)[i]->id);
         }
 
         pointer = end + 1; // avança para o próximo objeto
@@ -125,24 +125,24 @@ void print_registry(Registry registry)
     printf("}\n");
 }
 
-void create_registry(Registry **registries, int *registries_count, char *line)
+void create_registry(Registry ***registries, int *registries_count, char *line)
 // Recebe a linha de comando digitada pelo usuário, faz a leitura destas através de sscanf para extrair sem as "" e no tipo correto, verifica se há algum espaço vazio dentro do vetor alocado, e se houver, adiciona o novo registro, se não houver, aumenta o vetor (Caso não tenha chegado ao limite) e adiciona o novo registro
 {
     Registry new_registry;
     int operation, empty_space_found = 0;
     sscanf(line, "%d %d \"%15[^\"]\" \"%30[^\"]\" \"%c\" %lf", &operation, &new_registry.id, new_registry.login, new_registry.password, &new_registry.gender, &new_registry.salary);
 
-    for (int i = 0; i < registries_count; i++)
+    for (int i = 0; i < *registries_count; i++)
     {
-        if (registries[i] == NULL)
+        if ((*registries)[i] == NULL)
         {
-            registries[i] = malloc(sizeof(Registry));
-            if (!registries[i])
+            (*registries)[i] = malloc(sizeof(Registry));
+            if (!(*registries)[i])
             {
                 perror("Erro ao alocar memória");
                 exit(1);
             }
-            *registries[i] = new_registry;
+            *((*registries)[i]) = new_registry;
             empty_space_found = 1;
             break;
         }
@@ -157,15 +157,15 @@ void create_registry(Registry **registries, int *registries_count, char *line)
         else
         {
 
-            registries = realloc(registries, sizeof(Registry) * (*registries_count + 1));
-            registries[*registries_count] = (Registry *)malloc(sizeof(Registry));
-            if (!registries[*registries_count])
+            *registries = realloc(*registries, sizeof(Registry *) * (*registries_count + 1));
+            (*registries)[*registries_count] = (Registry *)malloc(sizeof(Registry));
+            if (!(*registries)[*registries_count])
             {
                 perror("Erro ao alocar memória");
                 exit(1);
             }
-            *registries[*registries_count] = new_registry;
-            registries_count++;
+            *(*registries)[*registries_count] = new_registry;
+            (*registries_count)++;
             printf("Registro inserido.\n");
         }
     }
@@ -287,7 +287,7 @@ void find_registry(Registry **registries, int registries_count, char *line)
     }
 }
 
-void delete_registry(Registry **registries, int *registries_count_pointer, char *line)
+void delete_registry(Registry ***registries, int *registries_count_pointer, char *line)
 // Recebe o array de registros, um ponteiro para o número de registros e a linha digitada pelo usuário. Identifica o filtro de deleção desejado e desaloca a memoria dos registros que foram deletados, setando seu ponteiro para NULL depois
 {
     char search_field[11], search_value[31];
@@ -300,21 +300,17 @@ void delete_registry(Registry **registries, int *registries_count_pointer, char 
         int id = atoi(search_value);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
-            if (registries[read_index] != NULL)
+            if ((*registries)[read_index] != NULL)
             {
-                if (registries[read_index]->id == id)
+                if ((*registries)[read_index]->id == id)
                 {
-                    free(registries[read_index]);
-                    registries[read_index] = NULL;
+                    free((*registries)[read_index]);
+                    (*registries)[read_index] = NULL;
                     found = 1;
                     deleted_count++;
                 }
             }
         }
-    }
-    if (!found)
-    {
-        printf("Remoção inválida.\n");
     }
 
     else if (strcmp(search_field, "login") == 0)
@@ -323,20 +319,16 @@ void delete_registry(Registry **registries, int *registries_count_pointer, char 
         sscanf(search_value, "\"%15[^\"]", login);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
-            if (registries[read_index] != NULL)
+            if ((*registries)[read_index] != NULL)
             {
-                if (registries[read_index]->login == login)
+                if ((*registries)[read_index]->login == login)
                 {
-                    free(registries[read_index]);
-                    registries[read_index] = NULL;
+                    free((*registries)[read_index]);
+                    (*registries)[read_index] = NULL;
                     found = 1;
                     deleted_count++;
                 }
             }
-        }
-        if (!found)
-        {
-            printf("Remoção inválida.\n");
         }
     }
     else if (strcmp(search_field, "password") == 0)
@@ -345,20 +337,16 @@ void delete_registry(Registry **registries, int *registries_count_pointer, char 
         sscanf(search_value, "\"%30[^\"]", password);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
-            if (registries[read_index] != NULL)
+            if ((*registries)[read_index] != NULL)
             {
-                if (registries[read_index]->password == password)
+                if ((*registries)[read_index]->password == password)
                 {
-                    free(registries[read_index]);
-                    registries[read_index] = NULL;
+                    free((*registries)[read_index]);
+                    (*registries)[read_index] = NULL;
                     found = 1;
                     deleted_count++;
                 }
             }
-        }
-        if (!found)
-        {
-            printf("Remoção inválida.\n");
         }
     }
     else if (strcmp(search_field, "gender") == 0)
@@ -367,20 +355,16 @@ void delete_registry(Registry **registries, int *registries_count_pointer, char 
         sscanf(search_value, "\"%c", &gender);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
-            if (registries[read_index] != NULL)
+            if ((*registries)[read_index] != NULL)
             {
-                if (registries[read_index]->gender == gender)
+                if ((*registries)[read_index]->gender == gender)
                 {
-                    free(registries[read_index]);
-                    registries[read_index] = NULL;
+                    free((*registries)[read_index]);
+                    (*registries)[read_index] = NULL;
                     found = 1;
                     deleted_count++;
                 }
             }
-        }
-        if (!found)
-        {
-            printf("Remoção inválida.\n");
         }
     }
     else if (strcmp(search_field, "salary") == 0)
@@ -388,20 +372,16 @@ void delete_registry(Registry **registries, int *registries_count_pointer, char 
         double salary = atof(search_value);
         for (int read_index = 0; read_index < *registries_count_pointer; read_index++)
         {
-            if (registries[read_index] != NULL)
+            if ((*registries)[read_index] != NULL)
             {
-                if (registries[read_index]->salary == salary)
+                if ((*registries)[read_index]->salary == salary)
                 {
-                    free(registries[read_index]);
-                    registries[read_index] = NULL;
+                    free((*registries)[read_index]);
+                    (*registries)[read_index] = NULL;
                     found = 1;
                     deleted_count++;
                 }
             }
-        }
-        if (!found)
-        {
-            printf("Remoção inválida.\n");
         }
     }
     else
@@ -412,6 +392,10 @@ void delete_registry(Registry **registries, int *registries_count_pointer, char 
     if (found)
     {
         printf("%d registro(s) removido(s).\n", deleted_count);
+    }
+    else
+    {
+        printf("Remoção inválida.\n");
     }
 }
 
@@ -424,7 +408,7 @@ int main()
     scanf("%255s", filename); // Lê o nome do arquivo de entrada
     getchar();
 
-    read_file(filename, registries, &registries_count); // Chama a função de leitura de arquivo, passando os respectivos parâmetros
+    read_file(filename, &registries, &registries_count); // Chama a função de leitura de arquivo, passando os respectivos parâmetros
 
     line = malloc(sizeof(char) * LINE_SIZE); // Aloca memória necessária para armazenar a linha de comando do usuário
 
@@ -436,13 +420,13 @@ int main()
         switch (operation)
         {
         case 1:
-            create_registry(registries, &registries_count, line); // Passa o array de registros, um ponteiro para a quantidade de registros e a linha de comando do usuário
+            create_registry(&registries, &registries_count, line); // Passa o array de registros, um ponteiro para a quantidade de registros e a linha de comando do usuário
             break;
         case 2:
             find_registry(registries, registries_count, line); // Passa o array de registros, a quantidade de registros e a linha de comando do usuário
             break;
         case 3:
-            delete_registry(registries, &registries_count, line); // Passa o array de registros, um ponteiro para a quantidade de registros e a linha de comando do usuário
+            delete_registry(&registries, &registries_count, line); // Passa o array de registros, um ponteiro para a quantidade de registros e a linha de comando do usuário
             break;
         default:
             printf("Operação não reconhecida\n");

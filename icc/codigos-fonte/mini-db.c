@@ -321,7 +321,7 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
         {
             if ((*registries)[read_index] != NULL)
             {
-                if ((*registries)[read_index]->login == login)
+                if (strcmp((*registries)[read_index]->login, login) == 0)
                 {
                     free((*registries)[read_index]);
                     (*registries)[read_index] = NULL;
@@ -339,7 +339,7 @@ void delete_registry(Registry ***registries, int *registries_count_pointer, char
         {
             if ((*registries)[read_index] != NULL)
             {
-                if ((*registries)[read_index]->password == password)
+                if (strcmp((*registries)[read_index]->password, password) == 0)
                 {
                     free((*registries)[read_index]);
                     (*registries)[read_index] = NULL;
